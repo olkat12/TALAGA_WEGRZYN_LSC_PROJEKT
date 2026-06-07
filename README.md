@@ -1,6 +1,6 @@
 # TALAGA_WEGRZYN_LSC_PROJEKT
 
-Aleksandra Talaga, Karoloina Węgrzyn
+Aleksandra Talaga, Karoloina Węgrzyn <br>
 Large Scale Computing
 
 14. Scale-Up Analytics: DuckDB on a High-Memory HPC Node [lab-ready]
